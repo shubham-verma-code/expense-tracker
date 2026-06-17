@@ -1,6 +1,19 @@
 # Expense Tracker Pro
 
 Advanced multi-page Python expense tracker using only the Python standard library.
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Budgets
+![Budgets](screenshots/budgets.png)
+
+### Reports
+![Reports](screenshots/reports.png)
 
 ## Features
 
