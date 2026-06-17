@@ -26,27 +26,12 @@ Advanced multi-page Python expense tracker using only the Python standard librar
 - CSV export
 - Responsive desktop and mobile layout
 
-## Run
-
-Easy way:
-
-Double-click `START_EXPENSE_TRACKER.bat`, then open:
-
-```text
-http://127.0.0.1:8000
-```
-
-Manual way:
-
-```powershell
-cd "C:\Users\SHUBHAM VERMA\Documents\Codex\2026-06-11\as-you-are-my-project-maker\outputs\expense_tracker"
-python app.py
-```
-
-Open:
-
-```text
-http://127.0.0.1:8000
-```
+## Tech Stack
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQLite
 
 The app creates `data/expenses.db` automatically and seeds sample data the first time it runs.
+
