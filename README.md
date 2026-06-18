@@ -7,7 +7,7 @@ Advanced multi-page Python expense tracker using only the Python standard librar
 ![Dashboard](screenshots/dashboard.png)
 
 ### Transactions
-![Transactions](screenshots/transaction.png)
+![Transactions](screenshots/transactions.png)
 
 ### Budgets
 ![Budgets](screenshots/budget.png)
