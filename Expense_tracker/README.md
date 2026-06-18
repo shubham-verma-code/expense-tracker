@@ -35,5 +35,16 @@ Advanced multi-page Python expense tracker using only the Python standard librar
 - JavaScript
 - SQLite
 
+### Installation
+
+git clone https://github.com/shubham-verma-code/expense-tracker.git 
+cd expense-tracker 
+python app.py
+
+
 The app creates `data/expenses.db` automatically and seeds sample data the first time it runs.
+
+### License
+
+MIT License © 2026 Shubham Verma
 
